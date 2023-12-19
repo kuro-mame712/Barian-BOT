@@ -5,7 +5,7 @@
 
 導入リンクはこちら
 
-https://discord.com/api/oauth2/authorize?client_id=1132731015920627854&permissions=8&scope=bot
+(https://discord.com/api/oauth2/authorize?client_id=1132731015920627854&permissions=8&scope=bot)
 
 ## 利用規約
 
