@@ -4,6 +4,7 @@
 当Botを利用する前に、本規約を十分にお読みいただき、その内容を理解した上でご利用ください。
 
 導入リンクはこちら
+
 https://discord.com/api/oauth2/authorize?client_id=1132731015920627854&permissions=8&scope=bot
 
 ## 利用規約
