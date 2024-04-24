@@ -6,6 +6,7 @@
 導入リンクはこちら
 
 [Barian BOT](https://discord.com/api/oauth2/authorize?client_id=1132731015920627854&permissions=8&scope=bot)
+<br/>
 [Barian BOT2](https://discord.com/oauth2/authorize?client_id=1196814164371451905&permissions=8&scope=bot)
 
 
