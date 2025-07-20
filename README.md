@@ -5,9 +5,9 @@
 
 導入リンクはこちら
 
-[Barian BOT1](https://discord.com/api/oauth2/authorize?client_id=1132731015920627854&permissions=8&scope=bot)
+[Barian BOT Vr.1](https://discord.com/api/oauth2/authorize?client_id=1132731015920627854&permissions=8&scope=bot)
 <br/>
-[Barian BOT2](https://discord.com/oauth2/authorize?client_id=1196814164371451905&permissions=8&scope=bot)
+[Barian BOT Vr.2](https://discord.com/oauth2/authorize?client_id=1196814164371451905&permissions=8&scope=bot)
 
 
 ## 利用規約
@@ -35,7 +35,7 @@
 収集された情報は、利用者の許可なしに第三者に提供することはありません。
 
 **権利の利用**<br/>
-当サービスは、悪意のあるユーザー(荒らしなど)に対してGlobal BAN（導入されてる全てのサーバーでBAN）をする可能性があります。
+当サービスは、悪意のあるユーザー(荒らし,リアル犯罪など)に対してGlobal BAN（導入されてる全てのサーバーでBAN）をの処置を取る可能性があります。
 これはサーバーの安全を守るために行っております。
 また、個人の願望でGBANをすることはできません。
 
